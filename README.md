@@ -1,10 +1,6 @@
 # Manual-Test-Cases
 A collection of manual test cases for common application functionalities.
 
-/Manual-Test-Cases
-├── LoginTestCases.md
-├── SignupTestCases.md
-└── DashboardTestCases.md
 # Login Test Cases
 
 ### Test Case 1: Valid Login
